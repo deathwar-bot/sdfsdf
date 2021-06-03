@@ -1,0 +1,80 @@
+Uri: http://jollymotion.com/
+File Name: C:\Downloaded Web Sites\jollymotion.com\index.htm
+Content Type: text/html
+
+Uri: http://jollymotion.com/assets/css/A.bootstrap.css+bootstrap-theme.css+font-awesome.css,Mcc.KRWmMDr6f-.css.pagespeed.cf.TR2aMQNjA5.css
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\css\A.bootstrap.css bootstrap-theme.css font-awesome.css,Mcc.KRWmMDr6f-.css.pagespeed.cf.TR2aMQNjA5.css
+Content Type: text/css
+
+Uri: http://jollymotion.com/assets/css/A.style.css.pagespeed.cf.mr4hDo4s2m.css
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\css\A.style.css.pagespeed.cf.mr4hDo4s2m.css
+Content Type: text/css
+
+Uri: https://www.youtube.com/channel/UCDzoIWVRKwxqQ1uuTRDZIHQ/videos?view_as=subscriber
+File Name: C:\Downloaded Web Sites\jollymotion.com\channel\UCDzoIWVRKwxqQ1uuTRDZIHQ\videos.html
+Content Type: text/html
+
+Uri: https://code.jquery.com/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\jollymotion.com\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: http://jollymotion.com/assets/js/bootstrap.min.js+jquery.countdown.min.js.pagespeed.jc.hP3Q2Q9dCj.js
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\js\bootstrap.min.js jquery.countdown.min.js.pagespeed.jc.hP3Q2Q9dCj.js
+Content Type: application/javascript
+
+Uri: http://jollymotion.com/assets/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jollymotion.com/assets/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jollymotion.com/assets/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: http://jollymotion.com/assets/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://jollymotion.com/assets/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://jollymotion.com/assets/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jollymotion.com/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jollymotion.com/assets/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: http://jollymotion.com/assets/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://jollymotion.com/assets/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://jollymotion.com/assets/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400,300,700,900
+File Name: C:\Downloaded Web Sites\jollymotion.com\css.css
+Content Type: text/css
+
+Uri: http://jollymotion.com/assets/img/xmain-bg.jpg.pagespeed.ic.YgA7WxfkdF.jpg
+File Name: C:\Downloaded Web Sites\jollymotion.com\assets\img\xmain-bg.jpg.pagespeed.ic.YgA7WxfkdF.jpg
+Content Type: image/jpeg
+
+Uri: https://mc.yandex.ru/watch/61554907/1
+File Name: C:\Downloaded Web Sites\jollymotion.com\watch\61554907\1.gif
+Content Type: image/gif
+
